@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🏫 I'm currently a third-year undergraduate at the University of Toronto, studying Computer Science Specialist and Mathematics Minor.
 
+🌱 I’m currently exploring Artificial Intelligence and Machine Learning.
+
 📫 How to reach me: ariel.chensr@hotmail.com
 
 <!--

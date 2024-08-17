@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 I'm currently a third-year undergraduate at the University of Toronto, studying Computer Science Specialist and Mathematics Minor.
+🏫 I am an MSCS student at Stanford University. Previously I completed my undergraduate studies in Computer Science and Mathematics at the University of Toronto, graduating with High Distinction and a full CGPA.
 
-🌱 I’m currently exploring Artificial Intelligence and Machine Learning.
+
+🌱 I’m interested in Machine Learning and Computer Vision.
 
 📫 How to reach me: ariel.chensr@hotmail.com
 

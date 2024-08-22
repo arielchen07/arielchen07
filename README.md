@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 I am an MSCS student at Stanford University. Previously I completed my undergraduate studies in Computer Science and Mathematics at the University of Toronto, graduating with High Distinction and a full CGPA.
+🏫 I am a MSCS student at Stanford University. Previously I completed my undergraduate studies in Computer Science and Mathematics at the University of Toronto, graduating with High Distinction and a full CGPA.
 
 
 🌱 I’m interested in Machine Learning and Computer Vision.
